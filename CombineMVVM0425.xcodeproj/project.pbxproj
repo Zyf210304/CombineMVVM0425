@@ -11,6 +11,7 @@
 		0252F12B28166E4C00F9AB42 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0252F12A28166E4C00F9AB42 /* ContentView.swift */; };
 		0252F12D28166E4F00F9AB42 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0252F12C28166E4F00F9AB42 /* Assets.xcassets */; };
 		0252F13028166E4F00F9AB42 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0252F12F28166E4F00F9AB42 /* Preview Assets.xcassets */; };
+		0252F13728166FB600F9AB42 /* LoginViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0252F13628166FB600F9AB42 /* LoginViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		0252F12A28166E4C00F9AB42 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		0252F12C28166E4F00F9AB42 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0252F12F28166E4F00F9AB42 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		0252F13628166FB600F9AB42 /* LoginViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +54,7 @@
 			isa = PBXGroup;
 			children = (
 				0252F12828166E4C00F9AB42 /* CombineMVVM0425App.swift */,
+				0252F13628166FB600F9AB42 /* LoginViewModel.swift */,
 				0252F12A28166E4C00F9AB42 /* ContentView.swift */,
 				0252F12C28166E4F00F9AB42 /* Assets.xcassets */,
 				0252F12E28166E4F00F9AB42 /* Preview Content */,
@@ -139,6 +142,7 @@
 			files = (
 				0252F12B28166E4C00F9AB42 /* ContentView.swift in Sources */,
 				0252F12928166E4C00F9AB42 /* CombineMVVM0425App.swift in Sources */,
+				0252F13728166FB600F9AB42 /* LoginViewModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
